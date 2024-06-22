@@ -1,0 +1,28 @@
+{
+  "name": "@web_naresh/mn-node",
+  "version": "1.0.2",
+  "description": "backdend",
+  "main": "index.js",
+  "bin": {
+    "transfyvthree": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "backdend"
+  },
+  "publishConfig": {
+    "registry": "http://npm.pkg.github.com/@WebNaresh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebNaresh/backdend"
+  },
+  "keywords": [
+    "backdend"
+  ],
+  "author": "web_naresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebNaresh/backdend/issues"
+  },
+  "homepage": "https://github.com/WebNaresh/backdend#readme"
+}
